@@ -1,3 +1,4 @@
 x = 532 + 12
-y=x^2
-print(y,x)
+y=x ^ 2
+print(y, x)
+print(x)
