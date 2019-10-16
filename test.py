@@ -1,4 +1,3 @@
-x = 532 + 12
-y = x ^ 2
-print(y, x)
-print(x)
+name = input('Please enter your name')
+print('hello there')
+print(name)
