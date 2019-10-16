@@ -1,3 +1,5 @@
-name = input('Please enter your name')
-print('hello there')
-print(name)
+print('adding numbers')
+x = 532 + 12
+print('dividing numbers')
+y = x / 0
+print('yay, I did math')
